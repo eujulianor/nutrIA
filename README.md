@@ -14,7 +14,7 @@
 - **Flet:** Biblioteca para criar interfaces de usuário.
 
 ## Demonstração
-[https://youtu.be/NrwBhNju7tk](https://www.youtube.com/watch?v=NrwBhNju7tk)
+https://github.com/eujulianor/nutrIA/assets/159481990/3c0dfe8c-7e5d-4b7e-89a7-f6edb708a737
 
 ![Nutr IA](https://github.com/eujulianor/nutrIA/assets/159481990/7d2a7707-111b-4e05-95f9-3552772d4f91)
 
