@@ -1,7 +1,12 @@
 # Nutr[IA] - Assistente Virtual de Nutrição
 
 ## Sobre o Projeto
-**Nutr[IA]** é uma assistente virtual inovadora, desenvolvida durante a imersão IA da Alura + Google. Utilizando a API Google Gemini, este projeto foi elaborado com o objetivo de transformar a maneira como interagimos com informações nutricionais. Com Nutr[IA], usuários podem obter análises detalhadas de IMC, percentual de gordura corporal, além de criação de dietas personalizadas, tudo através de uma interface intuitiva e em tempo real.
+**Nutr[IA]** é uma assistente virtual inovadora, desenvolvida durante a Imersão IA da @alura-cursos + @google. Utilizando a API Google Gemini, este projeto foi elaborado com o objetivo de transformar a maneira como interagimos com informações nutricionais. Com Nutr[IA], usuários podem obter análises detalhadas de IMC, percentual de gordura corporal, além de criação de dietas personalizadas, tudo através de uma interface intuitiva e em tempo real.
+
+## Demonstração
+https://github.com/eujulianor/nutrIA/assets/159481990/3c0dfe8c-7e5d-4b7e-89a7-f6edb708a737
+
+![Nutr IA](https://github.com/eujulianor/nutrIA/assets/159481990/7d2a7707-111b-4e05-95f9-3552772d4f91)
 
 ## Funcionalidades
 - **Cálculo de IMC:** Receba sua análise de Índice de Massa Corporal e entenda mais sobre sua faixa de peso.
@@ -13,11 +18,12 @@
 - **Google Gemini API:** Utilizada para construir o modelo de IA.
 - **Flet:** Biblioteca para criar interfaces de usuário.
 
-## Demonstração
-https://github.com/eujulianor/nutrIA/assets/159481990/3c0dfe8c-7e5d-4b7e-89a7-f6edb708a737
-
-![Nutr IA](https://github.com/eujulianor/nutrIA/assets/159481990/7d2a7707-111b-4e05-95f9-3552772d4f91)
-
+## Instrutores da Imersão IA Alura + Google
+Esses foram os instrutores da imersão que me ajudou a desenvolver esse projeto:
+@fabriciocarraro
+@AnaRaquelCafe
+@lucianommartins
+@peas
 
 ## Como Usar
 É necessário ter a **chave de API do Google Gemini**, você pode criar a sua em [http://aistudio.google.com](http://aistudio.google.com)
