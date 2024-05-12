@@ -19,11 +19,11 @@ https://github.com/eujulianor/nutrIA/assets/159481990/3c0dfe8c-7e5d-4b7e-89a7-f6
 - **Flet:** Biblioteca para criar interfaces de usuário.
 
 ## Instrutores da Imersão IA Alura + Google
-Esses foram os instrutores da imersão que me ajudou a desenvolver esse projeto:
-@fabriciocarraro
-@AnaRaquelCafe
-@lucianommartins
-@peas
+Esses foram os instrutores da imersão que me ajudou a desenvolver esse projeto, muito obrigado:
+- @fabriciocarraro
+- @AnaRaquelCafe
+- @lucianommartins
+- @peas
 
 ## Como Usar
 É necessário ter a **chave de API do Google Gemini**, você pode criar a sua em [http://aistudio.google.com](http://aistudio.google.com)
